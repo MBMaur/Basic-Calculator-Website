@@ -1,5 +1,6 @@
 # Basic-Calculator-Website
 A basic arithmetic calculator developed while learning HTML, CSS and JavaScript. The project supports user input, input validation and basic arithmetic operations.
+Created: 22/09/2026
 
 ## Calculaor.html
 1. Firstly, I created the html, css and javascript files for the calculator. 
